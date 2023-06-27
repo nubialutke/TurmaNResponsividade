@@ -5,12 +5,15 @@
    --branco: #ffffff;
    --amarelo: #fecd2f;
    --roxo-degrade:linear-gradient(94.49deg;#733887;#c75eeb 143.32%)
-   --fonte-principal: "Poppins"
+   --fonte-principal: "Poppins";
 
 }
 
 body{
     background-color: var(--cor-de-fundo);
+    font-family: var(Poppins);
+    font-size:16px;
+    font-weight: 400;
 }
 
 h1{
