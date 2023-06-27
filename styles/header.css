@@ -50,6 +50,7 @@
 
 .lista-menu__titulo{
     color: var(--amarelo);
+    font-weight: 700;
 }
 
 .lista-menu__link{
