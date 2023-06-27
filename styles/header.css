@@ -55,6 +55,6 @@
 }
 
 .lista-menu__link{
-    color: var();
+    color: var(--roxo);
 }
 
