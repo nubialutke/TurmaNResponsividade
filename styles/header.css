@@ -34,7 +34,7 @@
     width: 60vw;
 }
 
-.container__botao:checked~.lista__menu {
+.container__botao:checked~.lista-menu {
     display: block;
 
 }
