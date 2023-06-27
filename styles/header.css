@@ -54,4 +54,7 @@
     font-weight: 700;
 }
 
+.lista-menu__link{
+    color: var(--roxo);
+}
 
