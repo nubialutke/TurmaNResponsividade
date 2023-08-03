@@ -79,6 +79,10 @@
     .container__titulo{
         display: block;
         font-family: var(--fonte-secundaria);
+        font-weight: 400;
+    }
+    .container__titulo-negrito{
+        font-weight: 700;
     }
 
 }
