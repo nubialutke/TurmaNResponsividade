@@ -18,6 +18,7 @@
 
 .container {
     display: flex;
+    justify-content: space-between;
     align-items: center;
 
 }
@@ -62,4 +63,19 @@
     text-transform: uppercase;
 }
 
+.container__titulo{
+    display: none;
+}
+
+@media screen and (min-width:1024px) {
+    
+.cabecalhho__menu
+{display: none;}
+
+.container__favorito{
+display: none;
+    
+}
+
+}
 
