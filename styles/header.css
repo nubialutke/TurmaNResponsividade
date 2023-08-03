@@ -9,6 +9,7 @@
 }
 
 .cabecalho {
+    font-family: var(--fonte-principal);
     background-color: var(--branco);
     display: flex;
     justify-content: space-between;
@@ -77,6 +78,7 @@
     }
     .container__titulo{
         display: block;
+        font-family: var(--fonte-secundaria);
     }
 
 }
