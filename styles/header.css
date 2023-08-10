@@ -103,5 +103,8 @@
         display: block;
         width: auto;
     }
+    .opcoes__menu{
+display: none;
+    }
 
 }
