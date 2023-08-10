@@ -87,17 +87,16 @@
     }
 
     .opcoes{
-        display: flex;
+        display:flex;
     }
-.opcoes__item{
+    .opcoes__item{
+        padding: 0 1em;
+        text-transform: uppercase;
 
-    padding: 0 1em;
-    text-transform: uppercase;
-}
-.opcoes__link{
-text-decoration: none;
-color: var(--preto);
-}
-
+    }
+    .opcoes__link{
+        text-decoration: none;
+        color: var(--preto);
+    }
 
 }
