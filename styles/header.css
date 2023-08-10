@@ -99,4 +99,9 @@
         color: var(--preto);
     }
 
+    .opcoes__botao:checked~.link__menu{
+        display: block;
+        width: auto;
+    }
+
 }
