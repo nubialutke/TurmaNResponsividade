@@ -112,6 +112,9 @@
     .opcoes__menu {
         display: none;
     }
+    .container__texto{
+        display: none;
+    }
 }
 @media screen and (min-width: 1728px){
 
@@ -129,5 +132,7 @@
         margin-right: auto;
     }
 
-
+    .container__texto{
+        display: block;
+    }
 }
